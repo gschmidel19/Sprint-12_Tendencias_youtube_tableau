@@ -18,7 +18,7 @@ O objetivo foi criar um **dashboard interativo** para analisar tendências de v�
 | 9      | Priorização de Hipóteses e Análise de Teste A/B    | [Ver projeto](https://github.com/gschmidel19/Sprint_9_Hypotheses_AB_Test_Analysis/tree/main/Sprint_9_Hypotheses_AB_Test_Analysis) |
 | 10     | Pesquisa de Mercado para Cafeteria Automatizada    | [Ver projeto](https://github.com/gschmidel19/Sprint_10_Restaurants/tree/main/Sprint_10_Restaurants) |
 | 11     | Análise de Comportamento de Usuários e Teste A/A/B | [Ver projeto](https://github.com/gschmidel19/projeto_11_analise_comportamento_usuarios/tree/main/projeto_11_analise_comportamento_usuarios) |
-| 12     | Dashboard Interativo no Tableau — Tendências do YouTube | [Ver projeto](https://github.com/gschmidel19/sprint-12-youtube-trends-tableau) |
+| 12     | Dashboard Interativo no Tableau — Tendências do YouTube | [Ver projeto](https://github.com/gschmidel19/Sprint-12_Tendencias_youtube_tableau/tree/main/Sprint%2012_Tendencias_youtube_tableau) |
 
 
 
