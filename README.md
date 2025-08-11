@@ -1,4 +1,4 @@
-# 📊 Dashboard Interativo — Tendências do YouTube (Sprint 12 | TripleTen)
+# 📊 Dashboard Interativo — Tendências do YouTube 
 
 Este projeto foi desenvolvido como parte da **Sprint 12** do Bootcamp de Análise de Dados da [TripleTen](https://tripleten.com), sendo nosso **primeiro contato com o Tableau** — e já aprovado com sucesso ✅.
 O objetivo foi criar um **dashboard interativo** para analisar tendências de vídeos no YouTube, permitindo explorar o comportamento das visualizações por categoria, data e região.
